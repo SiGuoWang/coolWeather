@@ -5,7 +5,7 @@ import org.litepal.crud.DataSupport;
 /**
  * Created by Administrator on 2018/6/12.
  */
-public class city extends DataSupport {
+public class City extends DataSupport {
     private int id;
     private String cityName;
     private int cityCode;
